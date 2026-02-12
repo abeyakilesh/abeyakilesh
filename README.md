@@ -14,8 +14,8 @@ Building scalable, production-ready applications with clean architecture.
 
 ## Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/abey-akilesh-m-2a185b268/
-- 📧 Email: abeyakileshm@gmail.com
+-  LinkedIn: https://www.linkedin.com/in/abey-akilesh-m-2a185b268/
+-  Email: abeyakileshm@gmail.com
 
 ---
 
@@ -27,7 +27,7 @@ Building scalable, production-ready applications with clean architecture.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
