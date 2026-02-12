@@ -56,3 +56,8 @@ Building scalable, production-ready applications with clean architecture.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abeyakilesh/abeyakilesh/output/github-contribution-grid-snake.svg" />
+</p>
+
