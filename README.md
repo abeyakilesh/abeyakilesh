@@ -6,8 +6,8 @@
 
 <p align="center">
 Engineering Student • Oracle Certified Software Developer  
-Strong analytical thinking • Clear communication • Practical problem solving  
-Building scalable, production-ready applications with clean architecture.
+Strong analytical thinking • Clear communication • Practical problem solving 
+• Building scalable, production-ready applications with clean architecture.
 </p>
 
 ---
