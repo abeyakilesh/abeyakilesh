@@ -5,8 +5,7 @@
 <h1 align="center">Hi I'm Abey Akilesh</h1>
 
 <p align="center">
-Engineering Student • Oracle Certified Software Developer  
-Strong analytical thinking • Clear communication • Practical problem solving 
+ • Clear communication • Practical problem solving 
 • Building scalable, production-ready applications with clean architecture.
 </p>
 
