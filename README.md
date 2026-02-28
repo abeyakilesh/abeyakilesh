@@ -15,7 +15,6 @@
 
 -  LinkedIn: https://www.linkedin.com/in/abey-akilesh-m-2a185b268/
 -  Email: abeyakileshm@gmail.com
--  
 ---
 
 ## Tech Stack
