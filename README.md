@@ -15,15 +15,7 @@
 
 -  LinkedIn: https://www.linkedin.com/in/abey-akilesh-m-2a185b268/
 -  Email: abeyakileshm@gmail.com
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abeyakilesh&theme=radical&hide_border=true" />
-</p>
-
+-  
 ---
 
 ## Tech Stack
