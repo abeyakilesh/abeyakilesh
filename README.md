@@ -1,8 +1,21 @@
-# 💫 About Me:
-💫 About Me:<br>Abey Akilesh M<br>Oracle Certified Software Developer | Full Stack Engineer<br><br>Building scalable, production-ready applications with strong analytical thinking and clear communication.<br>Focused on clean architecture, structured problem-solving, and real-world impact.<br>
+ed+Java+Developer;Full+Stack+Engineer;Strong+Problem+Solver;Clear+Communicator" />
+</p>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abeyakileshm@gmail.com)
+<h1 align="center">Hi I'm Abey Akilesh</h1>
+
+<p align="center">
+ • Clear communication • Practical problem solving 
+• Building scalable, production-ready applications with clean architecture.
+</p><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Oracle+Certifi
+
+---
+
+## Connect With Me
+
+-  LinkedIn: https://www.linkedin.com/in/abey-akilesh-m-2a185b268/
+-  Email: abeyakileshm@gmail.com
+---
 
 # 💻 Tech Stack:
 
