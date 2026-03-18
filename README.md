@@ -41,13 +41,17 @@ Tools & IDEs
 
 --- 
 
-## Certifications
+# Certifications
+
+<div align="center">
 
 | Issuer | Certificate |
-|---|---|
+|:---:|:---:|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="60"/> | Java SE 17 Developer |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="60"/> | Python for Data Science |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Infosys_logo.svg" width="60"/> | Introduction to NLP |
+
+</div>
 
 ---
 
