@@ -17,7 +17,7 @@
 
 ---
 
-# Tech Stack:
+## Tech Stack:
 
 Programming Languages
 
@@ -39,39 +39,56 @@ Tools & IDEs
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
---- 
+---
 
-# Certifications
+#  GitHub Stats:
 
 <div align="center">
-
-| Issuer | Certificate |
-|:---:|:---:|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="60"/> | Java SE 17 Developer |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="60"/> | Python for Data Science |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Infosys_logo.svg" width="60"/> | Introduction to NLP |
-
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=abeyakilesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+      </td>
+      <td>
+        <img src="https://nirzak-streak-stats.vercel.app/?user=abeyakilesh&theme=dark&hide_border=false" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-# GitHub Stats:
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=abeyakilesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=abeyakilesh&theme=dark&hide_border=false" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeyakilesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td valign="top" align="center" width="50%">
+        <strong> Certifications</strong><br/><br/>
+        <table>
+          <tr>
+            <th>Issuer</th>
+            <th>Certificate</th>
+          </tr>
+          <tr>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="60"/></td>
+            <td>Java SE 17 Developer</td>
+          </tr>
+          <tr>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="60"/></td>
+            <td>Python for Data Science</td>
+          </tr>
+          <tr>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Infosys_logo.svg" width="60"/></td>
+            <td>Introduction to NLP</td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top" align="center" width="50%">
+        <strong> Most Used Languages</strong><br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeyakilesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
