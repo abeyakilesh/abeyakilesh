@@ -37,11 +37,15 @@
 
 ** Tools & IDEs**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-** Certifications & Platforms**
+** Certifications**
 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+| | Certificate | Issuer |
+|---|---|---|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="60"/> | Java SE 17 Developer | Oracle Certified Professional |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="60"/> | Python for Data Science | IBM |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Infosys_logo.svg" width="60"/> | Introduction to NLP | Infosys Springboard |
 
 #  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=abeyakilesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
