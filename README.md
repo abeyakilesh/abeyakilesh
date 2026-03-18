@@ -51,8 +51,7 @@ Tools & IDEs
 
 ---
 
-#  GitHub Stats:
-# 📊 GitHub Stats:
+# GitHub Stats:
 
 <table>
   <tr>
