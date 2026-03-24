@@ -50,12 +50,12 @@ Tools & IDEs
         <img src="https://github-readme-stats.vercel.app/api?username=abeyakilesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
       </td>
       <td>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=abeyakilesh&theme=dark&hide_border=false" />
+        <img src="https://streak-stats.demolab.com/?user=abeyakilesh&theme=dark&hide_border=false" />
       </td>
     </tr>
   </table>
 </div>
-inga
+
 ---
 
 <div align="center">
