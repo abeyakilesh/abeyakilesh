@@ -46,13 +46,13 @@ Tools & IDEs
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=abeyakilesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=abeyakilesh&theme=dark&hide_border=false" />
-      </td>
-    </tr>
+  <td>
+    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=abeyakilesh&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  </td>
+  <td>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abeyakilesh&theme=dark&hide_border=false" />
+  </td>
+</tr>
   </table>
 </div>
 
@@ -83,9 +83,9 @@ Tools & IDEs
         </table>
       </td>
       <td valign="top" align="center" width="50%">
-        <strong> Most Used Languages</strong><br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeyakilesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-      </td>
+  <strong> Most Used Languages</strong><br/><br/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abeyakilesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</td>
     </tr>
   </table>
 </div>
