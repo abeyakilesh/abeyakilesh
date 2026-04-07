@@ -1,12 +1,22 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Oracle+Certified+Java+Developer;Full+Stack+Engineer;Strong+Problem+Solver;Clear+Communicator" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=200&section=header&text=Abey%20Akilesh&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h1 align="center">Hi I'm Abey Akilesh</h1>
-
+<!-- 🔥 TYPING ANIMATION -->
 <p align="center">
- - Clear communication • Practical problem solving • Building scalable, production-ready applications with clean architecture.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;System+Design+Enthusiast;Building+Scalable+Applications;Backend+Focused+Engineer" />
 </p>
+
+<h1 align="center">Hey 👋, I'm Abey Akilesh</h1>
+<h3 align="center"> Full Stack Developer | System Design | Scalable Systems</h3>
+
+<!-- 🔥 BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/abeyakilesh?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/abeyakilesh?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-blue?style=for-the-badge" />
+</p>
+
 
 ---
 
