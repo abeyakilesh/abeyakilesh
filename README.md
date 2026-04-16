@@ -8,15 +8,15 @@
 </p>
 
 <h1 align="center">Hey 👋, I'm Abey Akilesh</h1>
-<h3 align="center"> Full Stack Developer | System Design | Scalable Systems</h3>
+<h3 align="center"> Full Stack Developer |  -Cloud-  | System Design </h3>
 
 <!-- 🔥 BADGES -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/abeyakilesh?style=for-the-badge&color=0aa8d2" />
   <img src="https://img.shields.io/github/stars/abeyakilesh?style=for-the-badge&color=f5c518" />
-  <img src="https://img.shields.io/badge/FullStack%20%26%20Data%20Engineering-Core-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-Engineering-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Systems-Scalable-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FullStack-Core-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-Deployments-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Systems-Scalable-red?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=abeyakilesh&label=PROFILE%20VIEWS&style=for-the-badge&color=blue" />
 </p>
 ---
