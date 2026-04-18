@@ -13,7 +13,6 @@
 <!-- 🔥 BADGES -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/abeyakilesh?style=for-the-badge&color=0aa8d2" />
-  <img src="https://img.shields.io/github/stars/abeyakilesh?style=for-the-badge&color=f5c518" />
   <img src="https://img.shields.io/badge/FullStack-Core-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cloud-Deployments-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Systems-Scalable-red?style=for-the-badge" />
